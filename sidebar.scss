@@ -1,0 +1,40 @@
+.side-bar {
+  padding: 24px;
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: absolute; /* Fix the sidebar to the viewport */
+  top: 7%; /* Start from the top */
+  left: 0; /* Align to the leftmost side */
+  width: 15%; /* Sidebar width */
+  background-color: transparent; /* Transparent background */
+
+
+
+  a {
+    width: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 26px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid transparent;
+    transition: 0.3s all ease;
+    padding: 8px;
+    border-radius: 15px;
+    text-decoration: none; /* Remove underline */
+    color: white; /* Adjust link color */
+    
+    svg{
+      height: 24px;
+      margin-right: 12px;
+    }
+    
+    &:hover {
+      background-color: rgb(212, 99, 23);
+    }
+  }
+}

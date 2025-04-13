@@ -71,6 +71,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Created by:** Deniz Görkem Ater,Efe Sılaydın,Ceyhun Efe Şeker, Atilla Çelik
+**Created by:** Deniz Görkem Ater,Acar Efe Sılaydın,Mustafa Ceyhun Şeker, Atilla Çelik
 **Purpose:** Graduation Project
-

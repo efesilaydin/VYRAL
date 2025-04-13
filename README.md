@@ -1,1 +1,1 @@
-Vyral is a YouTube-like video-sharing platform designed to empower creators by providing an accessible, user-friendly interface for uploading, watching, filtering, and searching videos. The project aims to foster inclusivity by implementing an algorithm that supports small creators, prioritizing low-view videos in recommendations.
+
